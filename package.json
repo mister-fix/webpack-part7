@@ -4,6 +4,11 @@
   "main": "index.js",
   "description": "practicing webpack",
   "scripts": {
+    "build": "webpack --mode=development"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
 }

@@ -1,5 +1,7 @@
+import React from "react";
+
 const App = () => {
-	return null;
+	return <div>App</div>;
 };
 
 export default App;

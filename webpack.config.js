@@ -12,6 +12,7 @@ const config = () => {
 			compress: true,
 			port: 5150,
 		},
+		devtool: "source-map",
 		module: {
 			rules: [
 				{
